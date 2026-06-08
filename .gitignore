@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.whl
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Data and outputs (generated at runtime — too large for git)
+lc_cache/
+upk_discovery_results/
+classifier_results/
+*.csv
+*.joblib
+*.fits
+*.pkl
+*.pickle
+
+# PDFs generated at runtime (pipeline outputs, not the thesis docs)
+discovery_report.pdf
+MASTER_DISCOVERY_REPORT.pdf
+UPK_*.pdf
+classification_report.pdf
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bcf
+*.blg
+*.bbl
+*.run.xml
+texput.log
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Secrets / credentials
+*.env
+.env.*
+ads_token.txt

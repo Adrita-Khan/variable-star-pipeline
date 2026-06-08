@@ -1,14 +1,8 @@
 # Variable Star Discovery and Classification Pipeline
 
-**Author:** Adrita Khan (ID: 2517276658)  
-**Supervisor:** Dr. Md Sumon Hossain  
-**Institution:** Department of Mathematics & Physics, School of Engineering and Physical Sciences, North South University  
-
----
-
 ## Overview
 
-This repository contains the complete computational pipeline for the thesis:
+This repository contains the complete computational pipeline for MSc thesis:
 
 > *Variable Star Discovery and Classification Using TESS Photometry and Machine Learning*
 
@@ -165,17 +159,6 @@ No proprietary data or telescope time required.
 | Supervised classifier | Macro-F1 ≥ 0.85 across 8 classes |
 | t-SNE + HDBSCAN | Cluster structure in 19-D feature space |
 
----
-
-## Citing This Work
-
-If you use this code in your research, please cite:
-
-```
-Khan, A. (2025). Variable Star Discovery and Classification Using TESS 
-Photometry and Machine Learning. B.Sc. Thesis, Department of Mathematics 
-& Physics, North South University.
-```
 
 ---
 
